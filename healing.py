@@ -1,5 +1,5 @@
-
 # --- Medicine class ---
+
 class Medicine:
     def __init__(self, name, illness_cured, healing_power):
         self.name = name
