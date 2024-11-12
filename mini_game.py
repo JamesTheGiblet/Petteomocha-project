@@ -1,3 +1,5 @@
+# mini_game.py
+
 import pygame
 import random
 
