@@ -1,5 +1,6 @@
 # movement.py
 
+
 def update_monster_movement(monster, dt, screen):
     """Updates the monster's position and movement."""
 
